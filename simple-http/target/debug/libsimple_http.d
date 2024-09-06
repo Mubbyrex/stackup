@@ -1,0 +1,1 @@
+/workspaces/stackup/simple-http/target/debug/libsimple_http.rlib: /workspaces/stackup/simple-http/src/http/mod.rs /workspaces/stackup/simple-http/src/http/request.rs /workspaces/stackup/simple-http/src/http/response.rs /workspaces/stackup/simple-http/src/lib.rs
