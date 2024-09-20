@@ -17,7 +17,7 @@ docs/
 .env
 .env*.local
 
-arbitrum_capstone/forum_dapp/.env
+stackup/arbitrum_capstone/forum_dapp/.env
 arbitrum_capstone/forum_dapp/.env*.local
 
 arbitrum_capstone/frontend/.env
